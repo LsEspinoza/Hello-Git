@@ -1,2 +1,1 @@
-# Hello-Git
-Uploading some files on github
+Este repositorio es una prueba para crear un repositorio, clonarlo y modificarlo
